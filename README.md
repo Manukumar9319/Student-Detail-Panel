@@ -1,6 +1,6 @@
 # Student-Detail-Panel
 
-![ScreenShot](/Screenshot_readme/capture.png)
+![alt text](https://raw.githubusercontent.com/abdulmoizshaikh/recipe-book/master/src/assets/images/Screenshot%20from%202021-03-31%2011-08-15.png?token=AGEPYAA3FGL4MHI7LZA75VLAMQJ5A)
 The student detail panel is used to enter the details of student using the interface.
 
 ## Description
