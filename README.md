@@ -1,6 +1,7 @@
 # Student-Detail-Panel
 
-![alt text](https://raw.githubusercontent.com/abdulmoizshaikh/recipe-book/master/src/assets/images/Screenshot%20from%202021-03-31%2011-08-15.png?token=AGEPYAA3FGL4MHI7LZA75VLAMQJ5A)
+![alt text](https://raw.githubusercontent.com/Sushil3125/Student-Detail-Panel/master/Screenshot_readme/Capture.JPG)
+
 The student detail panel is used to enter the details of student using the interface.
 
 ## Description
@@ -35,5 +36,5 @@ email: boyc50714@gmail.com
 * v1.0
 
 ## Screenshot of '.csv' file and pandastable
-![ScreenShot](/Screenshot_readme/capture2.png)
-![ScreenShot](/Screenshot_readme/capture3.png)
+![alt text](https://raw.githubusercontent.com/Sushil3125/Student-Detail-Panel/master/Screenshot_readme/Capture2.JPG)
+![alt text](https://raw.githubusercontent.com/Sushil3125/Student-Detail-Panel/master/Screenshot_readme/Capture3.JPG)
